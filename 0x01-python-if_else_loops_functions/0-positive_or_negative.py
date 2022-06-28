@@ -6,7 +6,7 @@ last_digit = number%10
 #set sign for last digit
 if number < 0:
     last_digit = last_digit*(-1)
-print statements 
+# print statements 
 if last_digit>5:
     print("Last digit of {number:d} is {last_digit:d} and is greater than 5")
 elseif last_digit!=0 and last_digit<6:
